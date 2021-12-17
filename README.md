@@ -7,22 +7,43 @@ Today I Learned (TIL)
 ## Algorithm
 
 
+<br>
+
+
 ## Language
+
+
+<br>
 
 
 ### Python
 
 
+<br>
+
+
 ## ML
+
+
+<br>
 
 
 ## DL
 
 
+<br>
+
+
 ## Statistics
 
 
+<br>
+
+
 ## Mathematics
+
+
+<br>
 
 
 ## Book
