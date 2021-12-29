@@ -2,6 +2,13 @@
 독서 기록
 
 ## Programming
+### # OS
+
+- 리눅스마스터 2급 (영진닷컴) --> ~ing
+
+<br> 
+
+
 ### # Language
 
 <br>
