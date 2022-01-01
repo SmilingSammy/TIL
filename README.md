@@ -11,7 +11,7 @@ Today I Learned (TIL)
 
 
 ## Language
-- [HTML](./Language/html.md)
+- [HTML](Language/html.md)
 
 <br>
 
