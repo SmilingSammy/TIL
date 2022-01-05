@@ -27,6 +27,11 @@ Today I Learned (TIL)
 
 <br>
 
+## RL
+- [RL](./RL/rl.md)
+
+<br>
+
 ## Statistics
 
 <br>
