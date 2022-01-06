@@ -13,11 +13,6 @@ Today I Learned (TIL)
 
 <br>
 
-### Python
-
-
-<br>
-
 ## ML
 - [ML](./ML/ml.md)
 <br>
