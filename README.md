@@ -42,6 +42,3 @@ Today I Learned (TIL)
 
 ## Book
 - [Book](./Book/book.md)
-
-## Lecture
-- [Lecture](./Lecture/lecture.md)
