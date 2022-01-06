@@ -8,7 +8,7 @@ Lecture 1: Introduction to Reinforcement Learning
 - [팡요랩](https://www.youtube.com/watch?v=wYgyiCEkwC8)
 
 ## Machine Learning paradigms
-![ML Paradigms](ml_paradigms.png)
+![ML_Paradigms](../../../img/ml_paradigms.png)
 
 ### Difference between 'RL' and 'SL, UL'
 - No supervisor, only a reward signal
@@ -29,7 +29,7 @@ Lecture 1: Introduction to Reinforcement Learning
 
 ## Agent, Environment
 - Agent
-![agent and environment interation](agent_and_env.png)
+![agent and environment interation](../../../img/agent_and_env.png)
   
 - Policy
     - agent's behavior
