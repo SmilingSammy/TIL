@@ -2,12 +2,7 @@
 
 ## Contents
 
----
-
-
 ## Reference
-
----
 ### Lecture
 - 인공지능 및 기계학습 개론Ⅰ (Kaist 문일철 교수님) --> ~ing
 
