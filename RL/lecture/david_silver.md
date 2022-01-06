@@ -7,7 +7,7 @@ David Silver 교수님의 RL Course 강의 내용 정리<br>
 - [팡요랩](https://www.youtube.com/watch?v=wYgyiCEkwC8)
 
 ## 강의 정리
-- [Lecture1](https://velog.io/write?id=de75de48-845c-4835-9bfb-583c7b4909f1)
+- [Lecture1](https://velog.io/@gjtang/David-Silver-RL-Course-Lecture1)
 - [Lecture2]
 - [Lecture3]
 - [Lecture4]
