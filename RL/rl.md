@@ -1,11 +1,10 @@
 # Reinforcement Learning
 
-## Contents
+## Lecture
 ### David Silver
 - [Lecture1](./lecture/david_silver/Lecture1.md)
 
-
 ## Reference
-### Lecture
 - [Reinforcement Learning Course - David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
 - [팡요랩](https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g/videos)
+- [바닥부터 배우는 강화학습 - 노승은](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931463170)
