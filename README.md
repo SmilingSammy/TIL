@@ -27,6 +27,11 @@ Today I Learned (TIL)
 
 <br>
 
+## MLOps
+- [MLOps](./MLOps/mlops.md)
+
+<br>
+
 ## Statistics
 
 <br>
