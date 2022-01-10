@@ -8,7 +8,7 @@ David Silver 교수님의 RL Course 강의 내용 정리<br>
 
 ## 강의 정리
 - [Lecture1](https://velog.io/@gjtang/David-Silver-RL-Course-Lecture1)
-- [Lecture2](https://velog.io/write?id=6851a799-ad7d-417e-942a-4fff89d508dc)
+- [Lecture2](https://velog.io/@gjtang/David-Silver-RL-Course-Lecture2)
 - [Lecture3]
 - [Lecture4]
 - [Lecture5]

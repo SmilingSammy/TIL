@@ -1,9 +1,11 @@
 # Reinforcement Learning
 [Curriculum](https://velog.io/@gjtang/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Curriculum)
-  
 
 ## Lecture
 - [RL Course - David Silver](./lecture/david_silver.md)
+
+## Training
+- [파이썬과 케라스로 배우는 강화학습](https://github.com/gjTang/rl_learning_python)
 
 ## Reference
 - [Reinforcement Learning Course - David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
