@@ -9,6 +9,7 @@ Today I Learned (TIL)
 <br>
 
 ## Language
+- [Python](Language/python.md)
 - [HTML](Language/html.md)
 
 <br>
