@@ -2,7 +2,7 @@
 고려대학교 산업공학과 정태수 교수님 강의<br>
 
 ## 강좌 계획표 (Syllabus)
-![syllabus](../../img/rl_jts_syllabus.png)
+![syllabus](../../../img/rl_jts_syllabus.png)
 
 ## 참고 자료
 - [Lecture](http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_ai_002+2021_A48/course/)

@@ -12,30 +12,19 @@ Today I Learned (TIL)
 - [HTML](./Language/html.md)
 <br>
 
-## [ML](./ML/)
-- [ML](./ML/ml.md)
-<br>
-
-## [DL](./DL/)
-- [DL](./DL/dl.md)
-
-<br>
-
-## [RL](./RL/)
-- [RL](./RL/rl.md)
-
+## [Machine Learning](./ML/)
+- [Machine Learning](./ML/ml.md)
+- [Deep Learning](./ML/DL/dl.md)
+- [Reinforcement Learning](./ML/RL/rl.md)
 <br>
 
 ## [MLOps](./MLOps/)
 - [MLOps](./MLOps/mlops.md)
 <br>
 
-## Statistics
-
-<br>
-
-## [Mathematics](./Math/)
+## Scholarship
 - [Math](./Math/math.md)
+- Statistics
 <br>
 
 ## [Book](./Book/)
