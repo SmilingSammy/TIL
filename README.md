@@ -22,8 +22,8 @@ Today I Learned (TIL)
 - [MLOps](./MLOps/mlops.md)
 <br>
 
-## Scholarship
-- [Math](./Math/math.md)
+## [Scholarship](./Scholarship)
+- [Math](./Scholarship/Math/math.md)
 - Statistics
 <br>
 
