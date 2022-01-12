@@ -1,8 +1,9 @@
 # Reinforcement Learning
 [Curriculum](https://velog.io/@gjtang/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Curriculum)
 
-## Lecture
+## [Lecture](./lecture/)
 - [RL Course - David Silver](./lecture/david_silver.md)
+- [강화학습의 수학적 기초와 알고리듬 이해 - 정태수](./lecture/jeongtaesu.md)
 
 ## Training
 - [파이썬과 케라스로 배우는 강화학습](https://github.com/gjTang/rl_learning_python)
