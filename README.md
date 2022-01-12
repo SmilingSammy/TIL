@@ -3,15 +3,13 @@ Today I Learned (TIL)
 
 하루 동안 배운 것 끄적끄적
 
-## Algorithm
-
-
+## [Algorithm](./Algorithm/)
+- [Coding Test](./Algorithm/coding-test.md)
 <br>
 
 ## [Language](./Language/)
 - [Python](./Language/python.md)
 - [HTML](./Language/html.md)
-
 <br>
 
 ## [ML](./ML/)
