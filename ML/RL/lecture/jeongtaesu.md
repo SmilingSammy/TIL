@@ -9,7 +9,7 @@
 
 ## 강의 정리
 - [Week1](https://velog.io/@gjtang/understanding-alg-math-rl-week1)
-- [Week2]
+- [Week2]()
 - [Week3]
 - [Week4]
 - [Week5]
