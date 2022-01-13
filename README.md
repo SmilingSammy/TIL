@@ -4,6 +4,7 @@ Today I Learned (TIL)
 하루 동안 배운 것 끄적끄적
 
 ## [Algorithm](./Algorithm/)
+- [Algorithm](./Algorithm/algorithm.md)
 - [Coding-test](./Algorithm/coding-test.md)
 <br>
 
