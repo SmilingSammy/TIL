@@ -13,10 +13,10 @@ Today I Learned (TIL)
 - [HTML](./Language/html.md)
 <br>
 
-## [Machine Learning](./ML/)
-- [Machine Learning](./ML/ml.md)
-- [Deep Learning](./ML/DL/dl.md)
-- [Reinforcement Learning](./ML/RL/rl.md)
+## [Machine Learning](MachineLearning/)
+- [Machine Learning](MachineLearning/ML/ml.md)
+- [Deep Learning](MachineLearning/DL/dl.md)
+- [Reinforcement Learning](MachineLearning/RL/rl.md)
 <br>
 
 ## [MLOps](./MLOps/)
