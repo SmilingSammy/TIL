@@ -12,7 +12,7 @@
 - [Week2](https://velog.io/@gjtang/understanding-alg-math-rl-week2)
 - [Week3](https://velog.io/@gjtang/understanding-alg-math-rl-week3)
 - [Week4](https://velog.io/@gjtang/understanding-alg-math-rl-week4)
-- [Week5]()
+- [Week5](https://velog.io/@gjtang/understanding-alg-math-rl-week5)
 - [Week6]
 - [Week7]
 - [Week9]
