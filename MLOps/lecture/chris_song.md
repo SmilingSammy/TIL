@@ -1,5 +1,5 @@
 # 머신러닝 엔지니어 실무
-인프런 Chris Song 강의<br>
+인프런 Chris Song님 강의<br>
 
 ## 강좌 계획표 (Syllabus)
 ![syllabus](../../img/chris_song.png)

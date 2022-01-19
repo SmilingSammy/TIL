@@ -1,5 +1,5 @@
 # 파이썬 머신러닝 완벽 가이드
-인프런 권철민 강의<br>
+인프런 권철민님 강의<br>
 
 ## 강좌 계획표 (Syllabus)
 ![syllabus](../../../img/ml_guide.png)
