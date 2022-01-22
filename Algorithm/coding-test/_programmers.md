@@ -3,9 +3,9 @@
 ## [Level1](./programmers/Lv1/)
 - 나머지가 1이 되는 수 찾기 [문제](https://programmers.co.kr/learn/courses/30/lessons/87389) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/remain1.py)
 - 부족한 금액 계산하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/82612) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/less_money.py)
-
+- [1차] 비밀지도 [문제](https://programmers.co.kr/learn/courses/30/lessons/17681) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/secret_map.py)
 - 가운데 글자 가져오기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/center_word.py)
-
+- [1차] 다트 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/17682) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/dart_game.py)
 - 같은 숫자는 싫어 [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/no_same_num.py)
 - 나누어 떨어지는 숫자 배열 [문제](https://programmers.co.kr/learn/courses/30/lessons/12910) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/num_arr.py)
 - 두 정수 사이의 합 [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/two_int_sum.py)  
@@ -35,10 +35,6 @@
 - x만큼 간격이 있는 n개의 숫자 [문제](https://programmers.co.kr/learn/courses/30/lessons/12954) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/interval_x.py)  
 - 직사각형 별찍기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12969) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/rectangle_star.py)
 ---
-- [1차] 비밀지도 [문제](https://programmers.co.kr/learn/courses/30/lessons/17681) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/secret_map.py)
-
-- [1차] 다트 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/17682) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/dart_game.py)
-
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
