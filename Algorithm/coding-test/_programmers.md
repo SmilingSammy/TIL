@@ -35,8 +35,13 @@
 - x만큼 간격이 있는 n개의 숫자 [문제](https://programmers.co.kr/learn/courses/30/lessons/12954) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/interval_x.py)  
 - 직사각형 별찍기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12969) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/rectangle_star.py)
 ---
-- 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
+- 약수의 개수와 덧셈 [문제](https://programmers.co.kr/learn/courses/30/lessons/77884) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/divisor.py)
+- 3진법 뒤집기 [문제](https://programmers.co.kr/learn/courses/30/lessons/68935) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/ternary.py)
+- 예산 [문제](https://programmers.co.kr/learn/courses/30/lessons/12982) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/budget.py)
+- 두 개 뽑아서 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/extract_two.py)
+- 2016년 [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/2016.py)  
+- 최소직사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/86491) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/minimum_rectangle.py)
+
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
 - 문제명 [문제]() / [풀이]()
 - 문제명 [문제]() / [풀이]()  
