@@ -1,6 +1,13 @@
 # [Programmers](https://programmers.co.kr/learn/challenges)
 
 ## [Level1](./programmers/Lv1/)
+- 신고 결과 받기 [문제](https://programmers.co.kr/learn/courses/30/lessons/92334?language=python3) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/declaration.py)
+- 완주하지 못한 선수 [문제](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/no_done.py)
+- 로또의 최고 순위와 최저 순위 [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/lotto.py)
+- 신규 아이디 추천 [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/new_id.py)
+- 숫자 문자열과 영단어 [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/replace_strnum.py)
+- [카카오 인턴] 키패드 누르기 [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/keypad.py)
+- 크레인 인형뽑기 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/crane_doll_game.py)
 - 없는 숫자 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/add_missing_numbers.py)
 - 음양 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/add_plusminus.py)
 - 내적 [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/dot_product.py)
@@ -50,13 +57,7 @@
 - x만큼 간격이 있는 n개의 숫자 [문제](https://programmers.co.kr/learn/courses/30/lessons/12954) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/interval_x.py)  
 - 직사각형 별찍기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12969) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/rectangle_star.py)
 ---
-- 로또의 최고 순위와 최저 순위 [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 신규 아이디 추천 [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 숫자 문자열과 영단어 [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- [카카오 인턴] 키패드 누르기 [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 크레인 인형뽑기 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/) 
-
-
+  
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
 - 문제명 [문제]() / [풀이]()
 - 문제명 [문제]() / [풀이]()  
