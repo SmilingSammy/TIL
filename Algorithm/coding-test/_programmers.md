@@ -1,6 +1,10 @@
 # [Programmers](https://programmers.co.kr/learn/challenges)
 
 ## [Level1](./programmers/Lv1/)
+- 없는 숫자 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/add_missing_numbers.py)
+- 음양 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/add_plusminus.py)
+- 내적 [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/dot_product.py)
+- 소수 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/make_decimal.py)
 - K번째수 [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/kth_number.py)
 - 모의고사 [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/mock_exam.py)
 - 체육복 [문제](https://programmers.co.kr/learn/courses/30/lessons/42862) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/gym_suit.py)
@@ -50,11 +54,7 @@
 - 신규 아이디 추천 [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
 - 숫자 문자열과 영단어 [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
 - [카카오 인턴] 키패드 누르기 [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 크레인 인형뽑기 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 없는 숫자 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 음양 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 내적 [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
-- 소수 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/) 
+- 크레인 인형뽑기 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/) 
 
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv1/)
 - 문제명 [문제]() / [풀이]()
