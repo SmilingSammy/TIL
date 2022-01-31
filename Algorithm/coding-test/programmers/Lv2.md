@@ -1,4 +1,5 @@
 # [Level2](./Lv2/)
+- [3차] 압축 [문제](https://programmers.co.kr/learn/courses/30/lessons/17684) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/compression.py)
 - [3차] 파일명 정렬 [문제](https://programmers.co.kr/learn/courses/30/lessons/17686) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/file_nm_sort.py)
 - 올바른 괄호 [문제](https://programmers.co.kr/learn/courses/30/lessons/12909) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/right_bracket.py)
 - N진수 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/17687) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/n_game.py)
@@ -13,7 +14,6 @@
 - JadenCase 문자열 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12951) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/jaden_case.py)
 - N개의 최소공배수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12953) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/n_lcd.py)
 ---
-- [3차] 압축 [문제](https://programmers.co.kr/learn/courses/30/lessons/17684) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/compression.py)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
