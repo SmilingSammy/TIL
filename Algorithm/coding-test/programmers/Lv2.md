@@ -24,7 +24,7 @@
 - N개의 최소공배수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12953) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/n_lcd.py)
 - 양궁대회 [문제](https://programmers.co.kr/learn/courses/30/lessons/92342?language=python3) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/archery.py)
 ---
-- 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
+- [1차] 캐시 [문제](https://programmers.co.kr/learn/courses/30/lessons/17680) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/cash.py)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
