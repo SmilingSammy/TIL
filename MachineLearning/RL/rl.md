@@ -8,6 +8,10 @@
 ## Training
 - [파이썬과 케라스로 배우는 강화학습](https://github.com/gjTang/rl_learning_python)
 
+## ETC
+- [Huber Loss란?](https://velog.io/@gjtang/Huber-Loss%EB%9E%80)
+- [Gradient Clipping이란?](https://velog.io/@gjtang/Gradient-Clipping%EC%9D%B4%EB%9E%80)
+
 ## Reference
 - [Reinforcement Learning Course - David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
 - [팡요랩](https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g/videos)
