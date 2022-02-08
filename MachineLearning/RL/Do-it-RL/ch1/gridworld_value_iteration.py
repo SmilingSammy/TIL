@@ -71,7 +71,7 @@ def print_values(V, grid):
 		for j in range(grid.cols):
 			value = V.get((i, j), 0)
 			if value >= 0:
-				print("%.2f | " % value, end = "")
+				print("%.2f  | " % value, end = "")
 			else:
 				print("%.2f | " % value, end = "") # -ve sign takes up an extra space
 		print("")
