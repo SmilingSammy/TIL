@@ -1,0 +1,7 @@
+-r ../requirements.txt
+pandas
+geopy
+scikit-learn
+xgboost
+lightgbm
+tqdm
