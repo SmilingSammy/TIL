@@ -3,7 +3,6 @@
 
 ## Programming
 ### # OS
-- 리눅스마스터 2급 (영진닷컴)
 <br>
 
 ### # Language
