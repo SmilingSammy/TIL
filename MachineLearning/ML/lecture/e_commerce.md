@@ -14,4 +14,4 @@
 - 준비된 파이썬 기본 문법 영상을 통해 모르는 부분을 처음부터 끝까지 차근차근 배울 수 있다.
 
 ## 강의 정리
-- []() 
+- [블로그](https://velog.io/@gjtang/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%98%AC%EC%9D%B8%EC%9B%90-%ED%8C%A8%ED%82%A4%EC%A7%80-Online) 
