@@ -29,7 +29,7 @@
 - 양궁대회 [문제](https://programmers.co.kr/learn/courses/30/lessons/92342?language=python3) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/archery.py)
 -----
 - 교점에 별 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/87377) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/star_at_vertex.py)
-- 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
+- 주식가격 [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
