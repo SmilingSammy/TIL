@@ -1,4 +1,5 @@
 # [Level2](./Lv2/)
+- 2개 이하로 다른 비트 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77885) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/other_bit.py)
 - 영어 끝말잇기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12981) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/word_relay.py)
 - 주식가격 [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/stock_price.py)
 - 구명보트 [문제](https://programmers.co.kr/learn/courses/30/lessons/42885) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/boat.py)
@@ -31,7 +32,6 @@
 - N개의 최소공배수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12953) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/n_lcd.py)
 - 양궁대회 [문제](https://programmers.co.kr/learn/courses/30/lessons/92342?language=python3) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/archery.py)
 -----
-- 2개 이하로 다른 비트 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77885) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - [1차] 프렌즈4블록 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/17679) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 피로도 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946) / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
 - 문제명 [문제]() / [풀이](https://github.com/gjTang/TIL/blob/main/Algorithm/coding-test/programmers/Lv2/)
